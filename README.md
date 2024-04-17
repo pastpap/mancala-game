@@ -1,5 +1,5 @@
 # Mancala Game
-![](Screen_Shot_2022-03-16_at_21.00.50.png)
+![](https://github.com/pastpap/mancala-game/blob/main/src/main/resources/images/Screen_Shot_2022-03-16_at_21.00.50.png)
 
 ## Description
 This project offers one approach in implementing the Mancala Game using java based frameworks.
@@ -31,7 +31,7 @@ The UI for the MVP version is kept simple and clean, pragmatic and functional.
 There is a minimalist approach that aims for supporting the maximum amount of features in the shortest of time.
 The errors that guide the player are displayed in the header using red.
 
-![](https://gitlab.com/anaeem1/stefan-papin/-/wikis/uploads/dc3eef3990881b33b9d9f1daee212450/Screen_Shot_2022-03-17_at_17.02.11.png)
+![](https://github.com/pastpap/mancala-game/blob/main/src/main/resources/images/Screen_Shot_2022-03-17_at_17.02.11.png)
 
 ## Build
 ### The rule engine and REST API
@@ -68,7 +68,7 @@ The Swagger-UI will be available after the application starts, at:
 ```
 http://localhost:8888/swagger-ui/
 ```
-![](https://gitlab.com/anaeem1/stefan-papin/-/wikis/uploads/58e073a143511d6b0f17c7cc4183b046/Screen_Shot_2022-03-16_at_21.00.13.png)
+![](https://github.com/pastpap/mancala-game/blob/main/src/main/resources/images/Screen_Shot_2022-03-16_at_21.00.13.png)
 
 ### Mancala Game UI MVP
 The Mancala Game UI for the MVP version is already compiled as the latest version in the project folder:
@@ -79,7 +79,7 @@ The UI is written with [Elm](https://guide.elm-lang.org/install/elm.html) and so
 ```
 </project_folder/>/src/main/resources/static/src/Main.elm
 ```
-![](https://gitlab.com/anaeem1/stefan-papin/-/wikis/uploads/9cf4633ebdb09d70355fe988be34dff5/Screen_Shot_2022-03-16_at_21.03.49.png)
+![](https://github.com/pastpap/mancala-game/blob/main/src/main/resources/images/Screen_Shot_2022-03-16_at_21.03.49.png)
 
 ## Usage
 ### REST API and Swagger-UI
@@ -87,7 +87,7 @@ The UI is written with [Elm](https://guide.elm-lang.org/install/elm.html) and so
 The API server is integrated with Swagger-UI that exposes all the available endpoints of the server to provide more information and facilitate testing and understanding them.
 Each individual endpoint can be tested by expanding it and providing the necessary information
 
-![](https://gitlab.com/anaeem1/stefan-papin/-/wikis/uploads/e20af8d83b78f8bcdca3a06fcfa8a1e2/Screen_Shot_2022-03-16_at_21.06.06.png)
+![](https://github.com/pastpap/mancala-game/blob/main/src/main/resources/images/Screen_Shot_2022-03-16_at_21.06.06.png)
 
 ## System description
 ### MVP System components
