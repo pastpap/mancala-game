@@ -1,0 +1,9 @@
+/.idea/
+/gradle/*
+/gradlew
+/gradlew.bat
+/build/
+/bin/*
+/.gradle/
+/src/main/resources/static/elm-stuff/*
+.DS_Store
