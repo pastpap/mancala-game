@@ -115,7 +115,7 @@ client <--> HTTP
 
 @enduml
 ```
-
+![](https://www.plantuml.com/plantuml/svg/LP11ImCn48Nl-HMFzjn_85BMGnKi5dVrKZmCwn23qwHCalKW_dUpoVQm49ZXpPilmzl7H9hoHSpWaZ3GEszBxNbYnV7zPCwTXf_8-W6A6CMnJzW-E_kL3ihipPN6RxACJN_LieikXBJ1hm7AExzoJ7W8FcaGMI3ASOqelfvrSYFNUMmzjYzAtl8yFf8VIGW7kZIFPk65qKcUFO_3SCBTRdTV-GQrD6416jownPTb3NzxgcoRtVgygfI5-GlpPre8ZL4bisV_MJBy1m00)
 ### Information Flow
 
 This is a sequence diagram representation of the flow of data durring the most common exchanges in the game modules.
@@ -151,3 +151,4 @@ database Database as db
 service <--> db
 @enduml
 ```
+![](https://www.plantuml.com/plantuml/svg/PP11ImCn44Rl-HKVxTbBZo9Igb05nTAjfzN3T7U8mMoo91CzYF_TR3Q2YwSCR-3D8zie52GDLfsCM0OEmVUf4-CT6fOqgdON_6Vay0gAwAnX9rW_6Fqc-y3ir4ZTEsd6gk7mOLbmuvsGSHnM-590-qYk8qlOFzyNXqvc8K0XLnVNk3kT3etw_gCSWt4QE--boeuSvml1MrkZmiIMndQACHsNVPndh9y2ESsB9XfuTYJBrR6pYHNcc4tkoc7J1ONopA0g5NwdWeibzzTVAgXeS8azo_G3_tURl3ooJjbTSbvS8oGSLKz2PugCspfCdVrPgSN93BRi-ZJO7m00)
