@@ -1,5 +1,6 @@
 # Mancala Game
-![](https://gitlab.com/anaeem1/stefan-papin/-/wikis/uploads/a75b7b61abebac9be0e83447ffd8b85d/Screen_Shot_2022-03-16_at_21.00.50.png)
+![](Screen_Shot_2022-03-16_at_21.00.50.png)
+
 ## Description
 This project offers one approach in implementing the Mancala Game using java based frameworks.
 The game in brick and mortar world can be described as such:
